@@ -84,7 +84,7 @@ async def start(bot, message):
                     f_caption = f"{files.file_name}"
                 buttons = [
                     [
-                        InlineKeyboardButton('🎖 DEPLOY YOURS 🎖', url=f'{TUTORIAL}')
+                        InlineKeyboardButton('🎖 Join Channel 🎖', url=f'{https://t.me/+W84jz85ZyQ1kNDY5}')
                     ]
                     ]
                 await bot.send_cached_media(
@@ -331,7 +331,7 @@ async def bot_info(bot, message):
     buttons = [
         [
             
-            InlineKeyboardButton('Deploy Video', url=f'{TUTORIAL}')
+            InlineKeyboardButton('Any Suggestions', url=f'{https://t.me/Jay_V2}')
         ]
         ]
     await message.reply(text=f"{ABOUT}", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
