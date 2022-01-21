@@ -28,14 +28,13 @@ Bot Owner Only
 """
 
 ABOUT = """
-➥ Name :  Auto Filter V3
+➥ Name :  JuiceWRLD999 V2 
     
-➥ Creator : [Naughty PROFESSOR](
-https://youtube.com/c/NaughtyPROFESSOR)
+➥ Creator : [@Jay_V2]
 
-➥ Language : Python3
+➥ Language : Python + JXON V6
 
-➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ Tutorial : [Click Me](https://youtu.be/5hnYOKBzyi8)
-"""
+
+
+
